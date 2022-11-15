@@ -27,7 +27,6 @@ function NotificationCard() {
 
     return (
         <>
-
             {
                 payload.map(i => (
                     <div class="bg-gray-900 bg-opacity-40 p-2 rounded-2xl w-full mt-2">
