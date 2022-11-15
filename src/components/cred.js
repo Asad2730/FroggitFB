@@ -1,0 +1,5 @@
+
+
+export const vapidKey = "BBPbyWdLuf6q_o4j0DoRL7voH1QI_XWhHkr43sMXjAk3mSaCvGAL0aPOXRh4WL8rphNWVSoxCrbZOpc4IoRcOUg"
+
+export const serverKey = "AAAAE2b_6cs:APA91bFd9o7hYejOvxiClhQ9_qPZYZ3rDaAOHJdx3djNNqqKEi2sZOqLMwLJHsyR92JD30P5hJL8LAUELXtd1fOB9H7qW_nSfggeU_sfYXASuVUGhWZDiRxlNl8aPmhXUOgyjDDiLjzd"
